@@ -4,9 +4,11 @@ I am a Croatian-born would-be developer with a background in philosophy that con
 <img src="./images/icons8-c.svg">
 
 ## ⌨️ Skills
-<img src="./images/icons8-html.svg">
-<img src="./images/icons8-css.svg">
-<img src="./images/icons8-javascript.svg">
+<p>
+    <img src="./images/icons8-html.svg">
+    <img src="./images/icons8-css.svg">
+    <img src="./images/icons8-javascript.svg">
+</p>
 <!--
 **DajanPlackovic/DajanPlackovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
