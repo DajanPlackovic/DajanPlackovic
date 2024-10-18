@@ -6,6 +6,7 @@
 	 viewBox="0 0 512 512"  xml:space="preserve">
 <style type="text/css">
 	.st0 {
+		height: .7em;
 		transform-origin: center;
 		animation: rotation 4s linear infinite;
 		filter: invert(100%);
